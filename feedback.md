@@ -1,0 +1,3 @@
+- Pas de constante pour l'entrée utilisateur 'N'
+- ligne 36 faute d'orthographe
+- La prochaine fois, inclure les fichiers de compilation cmake dans votre repo!
